@@ -1,3 +1,6 @@
+
+//mudar variaveis e endentacao!
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
